@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "package.jason example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenkatNan/npm-lab-atx01-seng-ft-071320.git"
+  },
+  "author": "nandita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VenkatNan/npm-lab-atx01-seng-ft-071320/issues"
+  },
+  "homepage": "https://github.com/VenkatNan/npm-lab-atx01-seng-ft-071320#readme",
+  "dependencies": {
+    "moment": "^2.28.0"
+  }
+}
